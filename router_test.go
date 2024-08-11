@@ -1,4 +1,4 @@
-package http_test
+package light_test
 
 import (
 	"context"

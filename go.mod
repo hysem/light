@@ -1,4 +1,4 @@
-module github.com/hysem/go-http
+module github.com/hysem/light
 
 go 1.22.0
 
